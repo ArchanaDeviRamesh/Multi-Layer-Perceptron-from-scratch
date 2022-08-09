@@ -6,5 +6,9 @@ To develop and test the given neural network (multi layer perceptron) that is ab
 Dataset link : UCI: https://archive.ics.uci.edu/ml/datasets/iris 
 
 * The given neural network is built using 1 hidden layer with 6 neurons and final layer contains 3 neurons for the 3 class labels
+
+* Libraries used : pandas, numpy, matplotlib, sklearn
+
 * The code is implemented from scratch using basic python libraries like numpy and pandas and sklearn for preprocessing
+
 * A class is built for initializing parameters, defining sigmoid, softmax, forward propagation, backward propagation and cross entropy loss
